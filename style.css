@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@700&family=Montserrat:wght@300&family=Spectral:wght@600&display=swap');
+/*font-family: 'Crimson Text', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Spectral', serif;
+#5B0A13  #D1A32B #FED24B  #A8001A*/
+:root{
+    --lightGolden:#FED24B;
+    --golden:#D1A32B;
+    --darkRed:#5B0A13;
+    --lightRed:#A8001A;
+    --goldenGray:rgba(227, 228, 190, 0.658);
+}
+hr.light{
+
+    border-top:2px solid black;
+    width:100%;
+}
